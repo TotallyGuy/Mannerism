@@ -8,8 +8,10 @@ nav_order: 5
 After a Conflict you mark experience for the Manner and Skill combination.
 
 #### Advancement Table
-|Advancement |Social |Movement |Academics |Agility |Craft |
+
+
 |:---|:---:|:---:|:---:|:---:|:---:|
+|**Advancement** |**Social** |**Movement** |**Academics** |**Agility** |**Craft** |
 |**Determination**| | | | | |
 |**Force**| | | | | |
 |**Speed**| | | | | |
@@ -25,8 +27,9 @@ Nothing can advance beyond 4. Keep the boxes marked.
 You have a second advancement table for magical conflicts.
 
 #### Advancement Table
-|Advancement |Illusion |Transformation |Enchantment |Evocation |Divination |
+
 |:---|:---:|:---:|:---:|:---:|:---:|
+|**Advancement** |**Illusion** |**Transformation** |**Enchantment** |**Evocation** |**Divination** |
 |**Determination**| | | | | |
 |**Force**| | | | | |
 |**Speed**| | | | | |
