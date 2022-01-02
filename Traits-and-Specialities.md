@@ -1,3 +1,8 @@
+---
+layout: default
+title: Traits and Specialities
+nav_order: 6
+---
 ## Traits and Specialities
 
 Traits and Specialities can be used in combination with one another. When both a trait and a speciality are applicable, do not add the Manner and Skill together, instead use the higher number twice and ignore the lower one.
