@@ -37,8 +37,8 @@ To see who has won we compare cards or check the relevant table to see how the M
 
 #### Test Resolution Table
 
-|-----------------|------------|-----------|-----------|------------|------------|
-|GM Complication  |Time        |Confusion  |Collateral |Hostility   |Consumption |
+|-----------------|:----------:|:---------:|:---------:|:----------:|:----------:|
+|**GM Complication|Time        |Confusion  |Collateral |Hostility   |Consumption**|
 |**Determination**|+0          |+0 Partial |Lose       |Win         |+2          |
 |**Force**        |+2          |+0         |+0 Partial |Lose        |Win         |
 |**Speed**        |Win         |+2         |+0         |+0, Partial |Lose        |
