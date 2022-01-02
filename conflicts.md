@@ -45,25 +45,15 @@ To see who has won we compare cards or check the relevant table to see how the M
 |**Precision**      |Lose        |Win          |+2            |+0           |+0, Partial    |
 |**Imagination**    |+0, Partial |Lose         |Win           |+2           |+0             |
 
-
-|||||||||
-|------|-----------|-----------|-----------|----------|---------|------|----------|
-|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
-|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
-|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
-|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
-|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
-
-
-
 #### Confrontation Resolution Table
-|Opponent |Determination |Force |Speed |Precision |Imagination |
-|:---|:---:|:---:|:---:|:---:|:---:|
-|**Determination**|+0 |+2 |Win |Lose |+0 Partial |
-|**Force**|+0 Partial |+0 |+2 |Win |Lose |
-|**Speed**|Lose |+0 Partial |+0 |+2 |Win |
-|**Precision**|Win |Lose |+0 Partial |+0 |+2 |
-|**Imagination**|+2 |Win |Lose |+0 Partial |+0 |
+
+|:----------------|:----------------:|:---------:|:---------:|:------------:|:--------------:|
+|**Opponent**     |**Determination** |**Force**  |**Speed**  |**Precision** |**Imagination** |
+|**Determination**|+0                |+2         |Win        |Lose          |+0 Partial      |
+|**Force**        |+0 Partial        |+0         |+2         |Win           |Lose            |
+|**Speed**        |Lose              |+0 Partial |+0         |+2            |Win             |
+|**Precision**    |Win               |Lose       |+0 Partial |+0            |+2              |
+|**Imagination**  |+2                |Win        |Lose       |+0 Partial    |+0              |
 
 Add the rating of the Manner, Skill, any help and, if the table allows it, +2. The opponent or GM's complication does the same. The higher number wins.
 
