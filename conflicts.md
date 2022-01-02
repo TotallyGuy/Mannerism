@@ -36,7 +36,6 @@ A confrontation is against another character, one controlled by the GM or anothe
 To see who has won we compare cards or check the relevant table to see how the Manner interacts. If the outcome is “Win”, then the player succeeds their Task, and their Intention comes to pass. If the outcome is “Lose”, then the player fails their Task and loses their Intention, the GM gets to involve their Environmental Complication or has the opponent’s Intention come to pass. In any other outcome we compare numbers.
 
 #### Test Resolution Table
-|||||||||
 |GM Complication|Time |Confusion |Collateral |Hostility |Consumption |
 |:---|:---:|:---:|:---:|:---:|:---:|
 |**Determination**|+0 |+0 Partial |Lose |Win |+2 |
@@ -44,6 +43,16 @@ To see who has won we compare cards or check the relevant table to see how the M
 |**Speed**|Win |+2 |+0 |+0, Partial |Lose |
 |**Precision**|Lose |Win |+2 |+0 |+0, Partial |
 |**Imagination**|+0, Partial |Lose |Win |+2 |+0 |
+
+
+|||||||||
+|------|-----------|-----------|-----------|----------|---------|------|----------|
+|1     | Agune     |6          |Drelil     |11        |Lirann   |16    |Sybil     |
+|2     | Beatrice  |7          |Elgile     |12        |Lirathil |17    |Theune    |
+|3     | Breagan   |8          |Esme       |13        |Lisabeth |18    |Wenain    |
+|4     | Bronwyn   |9          |Griya      |14        |Moralil  |19    |Ygwal     |
+|5     | Cannora   |10         |Henaine    |15        |Morgwen  |20    |Yslen     |
+
 
 
 #### Confrontation Resolution Table
