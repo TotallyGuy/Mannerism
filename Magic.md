@@ -14,7 +14,7 @@ In a magical test the GM complications are: Backfire, Unleashed, Madness, Hunted
 #### Magical Test Resolution Table
 
 |:---|:---:|:---:|:---:|:---:|:---:|
-||Backfire |Unleashed |Madness |Hunted |Dissipation |
+||**Backfire** |**Unleashed** |**Madness** |**Hunted** |**Dissipation** |
 |**Determination**|+0 |+0 Partial |Lose |Win |+2 |
 |**Force**|+2 |+0 |+0 Partial |Lose |Win |
 |**Speed**|Win |+2 |+0 |+0, Partial |Lose |
