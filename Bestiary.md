@@ -7,7 +7,7 @@ nav_order: 9
 
 All traits on monsters can be considered magical traits, these are the only way monsters may cast spells.
 
-Again Walker
+#### **Again Walker**
 
 |Manner | |Skills | |
 |:---|:---:|:---|:---:|
@@ -19,7 +19,7 @@ Again Walker
 
 Armour: Quality 2, all tracks.
 
-Demon
+#### **Demon**
 
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
@@ -31,7 +31,7 @@ Demon
 
 Armour: Quality 3, all tracks.
 
-Dragon
+#### **Dragon**
 
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
@@ -43,7 +43,7 @@ Dragon
 
 Armour: Quality 4, all tracks.
 
-Ghoul
+#### **Ghoul**
 
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
@@ -55,7 +55,7 @@ Ghoul
 
 Armour: Quality 2, all tracks.
 
-Goblin
+#### **Goblin**
 
 |Manner | |Skills | |
 |:---|:---:|:---|:---:|
@@ -67,7 +67,7 @@ Goblin
 
 Armour: None.
 
-Ogre
+#### **Ogre**
 
 |Manner | |Skills | |
 |:---|:---:|:---|:---:|
@@ -79,7 +79,7 @@ Ogre
 
 Armour: Quality 4, all tracks.
 
-Skeleton
+**Skeleton**
 
 |Manner | |Skills | |
 |:---|:---:|:---|:---:|
@@ -91,7 +91,7 @@ Skeleton
 
 Armour: Quailty 2, all tracks.
 
-Giant Spider
+#### **Giant Spider**
 
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
@@ -103,7 +103,7 @@ Giant Spider
 
 Armour: None
 
-Troll
+#### **Troll**
 
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
@@ -115,7 +115,7 @@ Troll
 
 Armour: Quality 2, all tracks.
 
-Wolf
+#### **Wolf**
 
 |Manner | |Skills | |
 |:---|:---:|:---|:---:|
