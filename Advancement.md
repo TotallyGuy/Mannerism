@@ -11,7 +11,7 @@ After a Conflict you mark experience for the Manner and Skill combination.
 
 
 |:---|:---:|:---:|:---:|:---:|:---:|
-|**Advancement** |**Social** |**Movement** |**Academics** |**Agility** |**Craft** |
+|**Advancement** |**S**ocial |**M**ovement |**A**cademics |**A**gility |**C**raft |
 |**Determination**| | | | | |
 |**Force**| | | | | |
 |**Speed**| | | | | |
@@ -29,7 +29,7 @@ You have a second advancement table for magical conflicts.
 #### Advancement Table
 
 |:---|:---:|:---:|:---:|:---:|:---:|
-|**Advancement**|**Illusion**|Transformation|**Enchantment**|**Evocation**|**Divination**|
+|**Advancement**|**I**llusion|**T**ransformation|**E**nchantment|**E**vocation|**D**ivination|
 |**Determination**| | | | | |
 |**Force**| | | | | |
 |**Speed**| | | | | |
