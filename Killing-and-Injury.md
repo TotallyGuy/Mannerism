@@ -9,6 +9,8 @@ When intention is set to injure or kill, or a GM's test complication is to injur
 
 The injured party marks one wound track's boxes with the number given by the margin. 
 
+#### **Injury Table**
+
 |Margin of Success |Wound |Effect |Recovery Difficulty |
 |:---:|:---|:---|:---:|
 |1 | Superficial effect | No penalty, it just hurts. |1 |
@@ -21,7 +23,7 @@ Wound effects are cumulative as more wound tracks are filled.
 
 You may upgrade a wound to a mortal wound at will. 
 
-#### Recovery
+#### **Recovery**
 
 During your downtime you may attempt to recover from your wounds, or an ally may try to treat you. The Intention will be for recovery, but the Task is up to the player and verified by the GM. The difficulty is given by the most severe effect you are suffering.
 
@@ -33,7 +35,7 @@ You may only attempt to recover from, or be treated for, injuries once for each 
 
 Following a Mortal Wound, only if you can immediately enter downtime will you have an opportunity to be treated for it. To survive, this must succeed.
 
-#### Armour
+#### **Armour**
 
 A piece of armour's quality is rated from 1 to 5 and protects one wound track. Mark the wound track with a shield symbol in the box that matches the quality. For example quality 4 marks the Traumatic effect level.
 
