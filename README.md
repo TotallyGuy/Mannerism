@@ -13,3 +13,5 @@ The full text of this SRD is licensed under [CC-BY-SA 4.0](https://creativecommo
 <p></p>
 
 ![Cover](img/MannerismCover.jpg)
+
+[![Alt text](/img/MannerismCover.jpg "Click to embiggen"){:height="50%" width="50%"}](/img/MannerismCover.jpg)
