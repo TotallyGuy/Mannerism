@@ -12,4 +12,4 @@ The full text of this SRD is licensed under [CC-BY-SA 4.0](https://creativecommo
 
 <p></p>
 
-!img/MannerismCover.jpg
+!(img/MannerismCover.jpg)
