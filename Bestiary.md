@@ -35,7 +35,7 @@ Dragon
 
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
-|Determination (Pride) |3|Social(Bargaining) |2 |Illusion |- |
+|Determination (Pride) |3|Social (Bargaining) |2 |Illusion |- |
 |Force (Imposing)|4|Movement (Flying) |3 |Transformation |- |
 |Speed |3|Academics |2 |Enchantment |0 |
 |Precision (Lashing)|3|Agility |4 |Evocation (Fire) |0 |
