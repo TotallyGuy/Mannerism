@@ -18,7 +18,7 @@ After a Conflict you mark experience for the Manner and Skill combination.
 |**Precision**| | | | | |
 |**Imagination**| | | | | |
 
-When you have marked a whole row or column, erase the markings, and advance the Manner or Skill by 1.
+When you have marked a whole row or column, erase the markings, and advance the subject by 1.
 
 If you complete two lines at once, advance them both, Manner and Skill.
 
@@ -29,7 +29,7 @@ You have a second advancement table for magical conflicts.
 #### Advancement Table
 
 |:---|:---:|:---:|:---:|:---:|:---:|
-|**Advancement**|**Illusion**|**Transformation**|**Enchantment**|**Evocation**|**Divination**|
+|**Advancement**|**Illusion**|Transformation|**Enchantment**|**Evocation**|**Divination**|
 |**Determination**| | | | | |
 |**Force**| | | | | |
 |**Speed**| | | | | |
