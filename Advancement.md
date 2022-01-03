@@ -29,7 +29,7 @@ You have a second advancement table for magical conflicts.
 #### Advancement Table
 
 |:---|:---:|:---:|:---:|:---:|:---:|
-|**Advancement** |**Illusion** |**Transformation** |**Enchantment** |**Evocation** |**Divination** |
+|**Advancement**|**Illusion**|**Transformation**|**Enchantment**|**Evocation**|**Divination**|
 |**Determination**| | | | | |
 |**Force**| | | | | |
 |**Speed**| | | | | |
