@@ -11,7 +11,7 @@ Using magic is like a normal Conflict but with a Spell in place of a Skill.
 
 In a magical test the GM complications are: Backfire, Unleashed, Madness, Hunted and Dissipation.
 
-#### Magical Test Resolution Table
+#### **Magical Test Resolution Table**
 
 |:---|:---:|:---:|:---:|:---:|:---:|
 ||**Backfire** |**Unleashed** |**Madness** |**Hunted** |**Dissipation** |
