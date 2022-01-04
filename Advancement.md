@@ -26,10 +26,10 @@ Nothing can advance beyond 4. Keep the boxes marked.
 
 You have a second advancement table for Magical Conflicts.
 
-#### **Advancement Table**
+#### **Magic Advancement Table**
 
 |:---|:---:|:---:|:---:|:---:|:---:|
-|**Advancement**|**Illusion**|**Transformation**|**Enchantment**|**Evocation**|**Divination**|
+|**Magic Advancement**|**Illusion**|**Trans- formation**|**Enchantment**|**Evocation**|**Divination**|
 |**Determination**| | | | | |
 |**Force**| | | | | |
 |**Speed**| | | | | |
