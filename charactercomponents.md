@@ -9,7 +9,7 @@ nav_order: 3
 ## Character Components
 
 #### **Manners**
-A character has 5 manners rated from 0 to 4.
+A character has 5 Manners rated from 0 to 4.
 - Determination - represents will power, earnestness, simplicity and purpose.
 - Force - represents pressure, disregard and bullying.
 - Speed - represents immediacy, abruptness.
@@ -17,7 +17,7 @@ A character has 5 manners rated from 0 to 4.
 - Imagination - represents innovation, unpredictability and having your head in the clouds.
 
 #### **Skills**  
-A character has 5 skills rated from 0 to 4.  
+A character has 5 Skills rated from 0 to 4.  
 - Social - Persuasion, falsehood, intimidation, haggling, oratory etc. all fall under social skills.
 - Movement - Running, jumping, sneaking, acrobatics, swimming, hauling etc. all fall under whole body movements.
 - Academics - Recall information, solve riddles, mathematics, research etc. all fall under academics.
@@ -25,7 +25,7 @@ A character has 5 skills rated from 0 to 4.
 - Craft - Making things, perform a trade, searching, scavenging, managing a household etc. all fall under craft.
 
 #### **Spells**
-A character may have up to 5 spells, if any at all, rated from 0 to 4.
+A character may have up to 5 Spells, if any at all, rated from 0 to 4.
 - Illusion - Create illusions or sounds; magic to affect the senses.
 - Transformation - To transform yourself, allies, enemies, objects, etc.
 - Enchantment - Enchant a person to affect their mind, or an object’s properties.
@@ -33,16 +33,18 @@ A character may have up to 5 spells, if any at all, rated from 0 to 4.
 - Divination - Divination is for seeing truth and predicting the future.
 
 #### **Character Traits and Specialities**  
-A trait is a way that you use a manner differently from other characters. Use the trait to enhance your description when you use the associated manner.
+A Trait is a way that you use a Manner differently from other characters. Use the Trait to enhance your description when you use the associated Manner.
 
-A speciality is a specialisation of a skill or spell. 
+A Speciality is a specialisation of a Skill or Spell. 
+
+See Traits and Specialities.
 
 #### **Wound Tracks**
-Characters have 5 vertical wound tracks.  When you receive a wound mark the appropriate number of boxes on a single track. See Killing and Injury
+Characters have 5 vertical Wound Tracks.  When you receive a Wound mark the appropriate number of boxes on a single track. See Killing and Injury
 
 Characters suffer cumulative wound effects from the marked boxes.
 
 #### **Starting Gear**
-You start the game with an item of mining related gear and a spell book containing one spell of your choice.
+You start the game with an item of mining related gear and a Spell Book containing one Spell of your choice.
 
 <p></p>
