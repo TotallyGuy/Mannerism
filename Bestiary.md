@@ -17,7 +17,7 @@ All traits on monsters can be considered magical traits, these are the only way 
 |Precision|0 |Agility (Murder)|3 |
 |Imagination|0 |Craft |0 |
 
-Armour: Quality 2, all tracks.
+Armour: Quality 2, all Tracks.
 
 #### **Demon**
 
@@ -29,7 +29,7 @@ Armour: Quality 2, all tracks.
 |Precision|3 |Agility |3 |Evocation (Fire)|1|
 |Imagination (Torturous)|3 |Craft |2 |Divination |-|
 
-Armour: Quality 3, all tracks.
+Armour: Quality 3, all Tracks.
 
 #### **Dragon**
 
@@ -41,7 +41,7 @@ Armour: Quality 3, all tracks.
 |Precision (Lashing)|3|Agility |4 |Evocation (Fire) |0 |
 |Imagination|2|Craft |2 |Divination |- |
 
-Armour: Quality 4, all tracks.
+Armour: Quality 4, all Tracks.
 
 #### **Ghoul**
 
@@ -53,17 +53,17 @@ Armour: Quality 4, all tracks.
 |Precision|1|Agility|2|Evocation|-|
 |Imagination (Cruelty)|0|Craft|0|Divination|-|
 
-Armour: Quality 2, all tracks.
+Armour: Quality 2, all Tracks.
 
 #### **Goblin**
 
 |Manner | |Skills | |
 |:---|:---:|:---|:---:|
-|Determination (Desperation)|0 |Social (Fast talk)|1 |
+|Determination (Desperation)|0 |Social (Fast talk)|0 |
 |Force |0 |Movement| 2|
-|Speed (Impulsive)|2 |Academics (Frantic records)| 1|
-|Precision|1 |Agility | 1|
-|Imagination (Eccentric)|3 |Craft (Inventing)| 2|
+|Speed (Impulsive)|1 |Academics (Frantic records)| 0|
+|Precision|0 |Agility | 0|
+|Imagination (Eccentric)|2 |Craft (Inventing)| 1|
 
 Armour: None.
 
@@ -77,7 +77,7 @@ Armour: None.
 |Precision|0 |Agility |4 |
 |Imagination|0 |Craft |0 |
 
-Armour: Quality 4, all tracks.
+Armour: Quality 4, all Tracks.
 
 **Skeleton**
 
@@ -89,7 +89,7 @@ Armour: Quality 4, all tracks.
 |Precision|2|Agility|2|
 |Imagination|0|Craft|0|
 
-Armour: Quailty 2, all tracks.
+Armour: Quailty 2, all Tracks.
 
 #### **Giant Spider**
 
@@ -108,12 +108,12 @@ Armour: None
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
 |Determination|3|Social (Disgracing)|1|Illusion |-|
-|Force (Skulker)|3|Movement|2|Transformation (Self healing)|0|
+|Force (Skulker)|3|Movement|2|Transformation (Regeneration)|0|
 |Speed|2|Academics|0|Enchantment|-|
 |Precision|2|Agility (Reaching)|3|Evocation|-|
 |Imagination (Contempt)|3|Craft (Finding)|1|Divination |-|
 
-Armour: Quality 2, all tracks.
+Armour: Quality 2, all Tracks.
 
 #### **Wolf**
 
