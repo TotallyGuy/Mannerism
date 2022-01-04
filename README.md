@@ -5,7 +5,7 @@ nav_order: 1
 permalink: /
 ---
 
-#Mannerism RPG
+# Mannerism RPG
 
 Mannerism is a tabletop role playing game about how hard it is being you authentic self in a world of sorcery and exploitation. It is an original game system by Guy MacDonnell.
 
