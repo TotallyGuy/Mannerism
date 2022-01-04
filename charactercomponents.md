@@ -4,8 +4,6 @@ title: Character Components
 nav_order: 3
 ---
 
-# Character Components
-
 ## Character Components
 
 #### **Manners**
