@@ -1,6 +1,6 @@
 ---
 layout: default
-title: SRD
+title: About this SRD
 nav_order: 2
 ---
 
