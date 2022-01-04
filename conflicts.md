@@ -18,14 +18,14 @@ The GM verifies that one follows from the other to continue the Conflict. Otherw
 
 The GM states which Skill or Spell is being used and whether the Conflict is a Test or a Confrontation.
 
-#### **Tests**
-
-A Test is against the environment. The GM declares a difficulty number from 1 to 8, 1 being easy and 8 being very hard and privately thinks of a Complication taking inspiration from one of the following themes: Hostility, Time, Collateral, Consumption or Confusion. These can be abstract and can take the form of a success with a cost.
-
 The player then selects their character's Manner and describes their character's actions in line with it.
 
 Characters with at least a rating of one in the relevant Skill or Spell can help in Conflicts.
 Help provides a +1 bonus, but the helper will be included in the failure consequence should their friend fail.
+
+#### **Tests**
+
+A Test is against the environment. The GM declares a difficulty number from 1 to 8, 1 being easy and 8 being very hard and privately thinks of a Complication taking inspiration from one of the following themes: Hostility, Time, Collateral, Consumption or Confusion. These can be abstract and can take the form of a success with a cost.
 
 #### **Confrontations**
  
