@@ -24,7 +24,7 @@ If you complete two lines at once, advance them both, Manner and Skill.
 
 Nothing can advance beyond 4. Keep the boxes marked.
 
-You have a second advancement table for magical conflicts.
+You have a second advancement table for Magical Conflicts.
 
 #### **Advancement Table**
 
