@@ -8,7 +8,7 @@ nav_order: 6
 Traits are descriptors tied to Manners.
 Specialities are a specific use of a Skill or Spell.
 
-In the event of a tied conflict check the used Manner, Skill or Spell for an appropriate Trait or Speciality. The party with the most applicable descriptors may break the tie in their favour.
+In the event of a tied Conflict check the used Manner, Skill or Spell for an appropriate Trait or Speciality. The party with the most applicable descriptors may break the tie in their favour.
 
 Traits and Specialities can be used in combination with one another. When both a trait and a speciality are applicable, do not add the Manner and Skill together, instead use the higher number twice and ignore the lower one.
 
