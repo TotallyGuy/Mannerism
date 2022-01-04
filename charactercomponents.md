@@ -19,10 +19,10 @@ A character has 5 Manners rated from 0 to 4.
 #### **Skills**  
 A character has 5 Skills rated from 0 to 4.  
 - Social - Persuasion, falsehood, intimidation, haggling, oratory etc. all fall under social skills.
-- Movement - Running, jumping, sneaking, acrobatics, swimming, hauling etc. all fall under whole body movements.
-- Academics - Recall information, solve riddles, mathematics, research etc. all fall under academics.
-- Agility - Sword skills, picking a lock, firing a bow, digging, tying ropes etc. all fall under agility.
-- Craft - Making things, perform a trade, searching, scavenging, managing a household etc. all fall under craft.
+- Movement - Running, jumping, sneaking, swimming, hauling etc., whole body movements.
+- Academics - Recall information, solve riddles, mathematics, research etc.
+- Agility - Sword skills, picking a lock, firing a bow, digging, tying ropes. Hand-eye activities.
+- Craft - Making things, performing a trade, searching, scavenging, managing a household.
 
 #### **Spells**
 A character may have up to 5 Spells, if any at all, rated from 0 to 4.
