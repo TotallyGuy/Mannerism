@@ -42,7 +42,7 @@ Characters have 5 vertical Wound Tracks.  When you receive a Wound mark the appr
 
 Characters suffer cumulative wound effects from the marked boxes.
 
-#### **Character Creation
+#### **Character Creation**
 
 To make a character you have 7 points to allocate between Manners and Skills.
 
