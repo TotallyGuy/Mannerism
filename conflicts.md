@@ -36,9 +36,9 @@ Help provides a +1 bonus, but the helper will be included in the failure consequ
 To see who has won we compare cards or check the relevant table to see how the Manner interacts. If the outcome is “Win”, then the player succeeds their Task, and their Intention comes to pass. If the outcome is “Lose”, then the player fails their Task and loses their Intention, the GM gets to involve their Complication or has the opponent’s Intention come to pass. In any other outcome we compare numbers.
 
 #### **Test Resolution Table**
-
-|-------------------| :--------: | :---------: | :----------: | :---------: | :-----------: | 
+ 
 |**GM Complication**|**Time**    |**Confusion**|**Collateral**|**Hostility**|**Consumption**|
+|-------------------| :--------: | :---------: | :----------: | :---------: | :-----------: | 
 |**Determination**  |+0          |+0 Partial   |Lose          |Win          |+2             |
 |**Force**          |+2          |+0           |+0 Partial    |Lose         |Win            |
 |**Speed**          |Win         |+2           |+0            |+0, Partial  |Lose           |
@@ -47,8 +47,9 @@ To see who has won we compare cards or check the relevant table to see how the M
 
 #### **Confrontation Resolution Table**
 
-|:----------------|:----------------:|:---------:|:---------:|:------------:|:--------------:|
+
 |**Opponent**     |**Determination** |**Force**  |**Speed**  |**Precision** |**Imagination** |
+|:----------------|:----------------:|:---------:|:---------:|:------------:|:--------------:|
 |**Determination**|+0                |+2         |Win        |Lose          |+0 Partial      |
 |**Force**        |+0 Partial        |+0         |+2         |Win           |Lose            |
 |**Speed**        |Lose              |+0 Partial |+0         |+2            |Win             |
