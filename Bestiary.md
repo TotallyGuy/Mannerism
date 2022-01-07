@@ -107,11 +107,11 @@ Armour: None
 
 |Manner | |Skills | |Spells | |
 |:---|:---:|:---|:---:|:---|:---:|
-|Determination|3|Social (Disgracing)|1|Illusion |-|
+|Determination|1|Social (Disgracing)|1|Illusion |-|
 |Force (Skulker)|3|Movement|2|Transformation (Regeneration)|0|
 |Speed|2|Academics|0|Enchantment|-|
 |Precision|2|Agility (Reaching)|3|Evocation|-|
-|Imagination (Contempt)|3|Craft (Finding)|1|Divination |-|
+|Imagination (Contempt)|1|Craft (Finding)|1|Divination |-|
 
 Armour: Quality 2, all Tracks.
 
