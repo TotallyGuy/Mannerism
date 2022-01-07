@@ -119,10 +119,10 @@ Armour: Quality 2, all Tracks.
 
 |Manner | |Skills | |
 |:---|:---:|:---|:---:|
-|Determination (Resolve)|2|Social (Coordinating)|2|
-|Force (Pack)|3|Movement (Running)|4|
-|Speed |3|Academics|0|
-|Precision (Formation)|2|Agility (Biting)|2|
-|Imagination|1|Craft (Pup rearing)|0|
+|Determination (Resolve)|1|Social (Coordinating)|1|
+|Force (Pack)|2|Movement (Running)|3|
+|Speed |2|Academics|0|
+|Precision (Formation)|1|Agility (Biting)|1|
+|Imagination|0|Craft (Pup rearing)|0|
 
 Armour: None
