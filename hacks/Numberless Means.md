@@ -1,7 +1,5 @@
 ---
-layout: default
 title: Hacks
-nav_order: 10
-has_children: true
----
+nav_order: 14
+redirect_to: https://totallyguy.itch.io/numberless-means
 
