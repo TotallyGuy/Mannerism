@@ -20,6 +20,6 @@ When all your Specialities are marked for advancement, you get a new Speciality 
 
 The group discusses how the character has been played. Together decide on the descriptor and put it against a suitable ability. 
 
-Specialities can be used to accomplish things outside of the normal scope of the ability. Agility (Martial Arts) would allow an unarmed character opportunity to fight someone unarmed when usually the GM would say that the task and intention do noo match up. Divination (Speaking with Dead) would allow a character to speak with someone on the other side. 
+Specialities can be used to accomplish things outside of the normal scope of the ability. Agility (Martial Arts) would allow an unarmed character opportunity to fight someone unarmed when usually the GM would say that the task and intention do not match up. Divination (Speaking with Dead) would allow a character to speak with someone on the other side. 
 
 If a Manner, Skill or Spell is rated 4 then keep the associated Trait or Speciality advancement box marked.
