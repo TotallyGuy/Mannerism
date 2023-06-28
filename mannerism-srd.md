@@ -14,7 +14,7 @@ This SRD is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/b
 
 Mannerism is an approach based RPG. You describe your character's actions with a little bit of roleplaying, thus demonstrating one of the game's five "Manners". This is all that is needed to resolve your action and determine whether you have succeeded or failed.
 
-It is a diceless game with the uncertainty coming entirely from the unpredictability of the other players.
+The game uses interacting cards with the uncertainty coming entirely from the unpredictability of the other players.
 
 Your character advances over time, getting better at things as you do them. You have a lot of control over how you grow and change constrained only by your willingness for the world to see the real you.
 
