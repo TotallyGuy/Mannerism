@@ -13,11 +13,11 @@ When you take a wound you choose your wound track and mark that many boxes start
 
 |Margin of Success |Wound |Effect |Recovery Difficulty |
 |:---:|:---|:---|:---:|
-|1 | Superficial effect | Injury Maximum becomes 5. The “Lose” result of a lethal conflict is also 5. |1 |
-|2 | Minor effect |If you get a “Win” result in a Conflict, instead treat this as a “+2” result. Opponent’s “Lose” treated as “+0, Partial”. |2 |
+|1 | Superficial effect | Injury Maximum becomes 5. The “X beats Y” result of a lethal conflict is also 5. |1 |
+|2 | Minor effect |If you would win with an “X beats Y” result in a Conflict, instead treat this as a “+2” result. Opponent’s result is treated as “+0, Partial”. |2 |
 |3 | Serious effect |Your Skills and Spells all suffer -1. Those reduced to less than 0 cannot be used until recovered. |3 |
-|4 | Traumatic effect |Your Manners all suffer -1. Any Manner reduced to -1 cannot be used. If any Manner is reduced to -2 you die instantly. |4 |
-|5+ | Mortal wound |You can undertake one final Conflict within the current scene with no other penalties, but you die afterwards. |5 |
+|4 | Traumatic effect |Your Manners all suffer -1 unless using magic. Any Manner reduced to -1 cannot be used. If any Manner is reduced to -2 you die instantly. |4 |
+|5+ | Mortal wound |You may undertake one final Conflict within the current scene with no wound penalties, but you die afterwards. |5 |
 
 The effects of wounds across each level are cumulative.
 
