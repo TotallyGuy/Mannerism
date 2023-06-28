@@ -17,7 +17,7 @@ All traits on monsters can be considered magical traits, these are the only way 
 |Precision|0 |Agility (Murder)|3 |
 |Imagination|0 |Craft |0 |
 
-Armour: Quality 2, all Tracks.
+Armour: Quality 1, all Tracks.
 
 #### **Demon**
 
@@ -41,7 +41,7 @@ Armour: Quality 3, all Tracks.
 |Precision (Lashing)|3|Agility |4 |Evocation (Fire) |0 |
 |Imagination|2|Craft |2 |Divination |- |
 
-Armour: Quality 4, all Tracks.
+Armour: Quality 5, all Tracks.
 
 #### **Ghoul**
 
@@ -53,7 +53,7 @@ Armour: Quality 4, all Tracks.
 |Precision|1|Agility|2|Evocation|-|
 |Imagination (Cruelty)|0|Craft|0|Divination|-|
 
-Armour: Quality 2, all Tracks.
+Armour: Quality 1, all Tracks.
 
 #### **Goblin**
 
@@ -89,7 +89,7 @@ Armour: Quality 4, all Tracks.
 |Precision|2|Agility|2|
 |Imagination|0|Craft|0|
 
-Armour: Quailty 2, all Tracks.
+Armour: Quality 1, all Tracks.
 
 #### **Giant Spider**
 
