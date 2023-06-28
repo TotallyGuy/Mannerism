@@ -20,20 +20,20 @@ The GM states which Skill or Spell is being used and whether the Conflict is a T
 
 #### **Tests**
 
-A Test is against the environment. The GM declares a difficulty number from 1 to 8, 1 being easy and 8 being very hard and privately thinks of a Complication taking inspiration from one of the following themes: Hostility, Time, Collateral, Consumption or Confusion. These can be abstract and can take the form of a success with a cost.
+A Test is against the environment. The GM declares a difficulty number from 1 to 8, 1 being easy and 8 being very hard and privately thinks of a Complication taking inspiration from one of the following themes: Hostility, Time, Collateral, Consumption or Confusion. The GM places this card face down. These can be abstract and can take the form of a success with a cost.
 
 #### **Confrontations**
  
-A Confrontation is against another character, one controlled by the GM or another player. If a player feels like the Confrontation stake is too high, they may leave the scene (or have the other character removed from the scene). This may only be prevented by the other player opting for a Confrontation with "keep them there" as their sole Intention against the party that tries to leave. A further Confrontation can follow when a party is unable to just leave.
+A Confrontation is against another character, one controlled by the GM or another player. If a player feels like the Confrontation stake is too high, they may leave the scene (or, if they have some great authority, have the other character removed from the scene). This may only be prevented by the other player opting for a Confrontation with "keep them there" as their sole Intention against the party that tries to leave. A further Confrontation can follow when a party is unable to just leave.
 
 #### **Resolution**
 
-The player then selects their character's Manner and describes their character's actions in line with it.
+The player then selects their character's Manner and describes their character's actions in line with it. They place the Manner card.
 
 Characters with at least a rating of one in the relevant Skill or Spell can help in Conflicts.
 Help provides a +1 bonus, but the helper will be included in the failure consequence should their friend fail.
 
-To see who has won we compare cards or check the relevant table to see how the Manner interacts. If the outcome is “Win”, then the player succeeds their Task, and their Intention comes to pass. If the outcome is “Lose”, then the player fails their Task and loses their Intention, the GM gets to involve their Complication or has the opponent’s Intention come to pass. In any other outcome we compare numbers.
+To see who has won we compare cards to see how the Manner interacts. If the outcome says the Manner beats the opponent, then the player succeeds their Task, and their Intention comes to pass. If the outcome says it loses to the opponent, then the player fails their Task and loses their Intention, the GM gets to involve their Complication or has the opponent’s Intention come to pass. In any other outcome we compare numbers.
 
 #### **Test Resolution Table**
  
@@ -56,10 +56,10 @@ To see who has won we compare cards or check the relevant table to see how the M
 |**Precision**    |Win               |Lose       |+0 Partial |+0            |+2              |
 |**Imagination**  |+2                |Win        |Lose       |+0 Partial    |+0              |
 
-Add the rating of the Manner, Skill, any help and, if the table allows it, +2. The opponent or GM's Complication does the same. The higher number wins.
+Add the rating of the Manner and Skill and, if the card states it, +2. The opposing character or the GM’s complication can add +2 if their card states it. The higher number wins.
 
 If you win with “+0, Partial” you have a Partial Success. You succeed but the opponent gets some small part of their Intention, or the GM gets to involve their Complication in a minor way.
 
 #### **Ties**
 
-In the event of a tie, check the Manner or skill for a Trait or Speciality, the tie is broken in favour of the side with the largest number of applicable descriptors. For a tie that is not broken, each side achieves a Partial Success, a compromised version of each side’s desired outcome.
+In the event of a tie, check the Manner or Skill for a Trait or Speciality, the tie is broken in favour of the side with the largest number of applicable descriptors. That side gains a full success or a partial success if winning with +0 P. For a tie that is not broken, each side achieves a partial success, a compromised version of each side’s desired outcome.
