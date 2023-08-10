@@ -10,7 +10,7 @@ nav_order: 2
 
 This SRD is licensed under [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).  
 
-## What is Mannerism
+## What is Mannerism?
 
 Mannerism is an approach based RPG. You describe your character's actions with a little bit of roleplaying, thus demonstrating one of the game's five "Manners". This is all that is needed to resolve your action and determine whether you have succeeded or failed.
 
