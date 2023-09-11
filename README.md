@@ -14,4 +14,4 @@ The full text of this SRD is licensed under [CC-BY-SA 4.0](https://creativecommo
 
 <p></p>
 
-![Cover](img/MannerismCover.jpg)
+![Cover](img/MannerismCover4.jpg)
