@@ -7,19 +7,9 @@ nav_order: 5
 
 After a Conflict you mark experience for the Manner and Skill combination.
 
-#### **Advancement Table**
-
 ![Skill Advancement Grid](img/SkillGrid.png)
 
-|:---|:---:|:---:|:---:|:---:|:---:|
-|**Advancement** |**Social** |**Movement** |**Academics** |**Agility** |**Craft** |
-|**Determination**| | | | | |
-|**Force**| | | | | |
-|**Speed**| | | | | |
-|**Precision**| | | | | |
-|**Imagination**| | | | | |
-
-When you have marked a whole row or column, erase the markings, and advance the subject by 1.
+When you have marked a whole line, erase the markings, and advance the subject by 1.
 
 If you complete two lines at once, advance them both, Manner and Skill.
 
@@ -27,14 +17,5 @@ Nothing can advance beyond 4. Keep the boxes marked.
 
 You have a second advancement table for Magical Conflicts.
 
-#### **Magic Advancement Table**
-
 ![Magic Advancement Grid](img/AdvancementgridMagic.png)
 
-|:---|:---:|:---:|:---:|:---:|:---:|
-|**Magic Advancement**|**Illusion**|**Transformation**|**Enchantment**|**Evocation**|**Divination**|
-|**Determination**| | | | | |
-|**Force**| | | | | |
-|**Speed**| | | | | |
-|**Precision**| | | | | |
-|**Imagination**| | | | | |
