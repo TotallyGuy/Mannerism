@@ -39,26 +39,26 @@ To see who has won we compare cards to see how the Manner interacts. If the outc
  
 |**GM Complication**|**Time**    |**Confusion**|**Collateral**|**Hostility**|**Consumption**|
 |:------------------| :--------: | :---------: | :----------: | :---------: | :-----------: | 
-|**Determination**  |+0          |+0 Partial   |Lose          |Win          |+2             |
-|**Force**          |+2          |+0           |+0 Partial    |Lose         |Win            |
-|**Speed**          |Win         |+2           |+0            |+0, Partial  |Lose           |
-|**Precision**      |Lose        |Win          |+2            |+0           |+0, Partial    |
-|**Imagination**    |+0, Partial |Lose         |Win           |+2           |+0             |
+|**Determination**  |+0          |Partial      |Lose          |Win          |+2             |
+|**Force**          |+2          |+0           |Partial       |Lose         |Win            |
+|**Speed**          |Win         |+2           |+0            |Partial      |Lose           |
+|**Precision**      |Lose        |Win          |+2            |+0           |Partial        |
+|**Imagination**    |Partial     |Lose         |Win           |+2           |+0             |
 
 #### **Confrontation Resolution Table**
 
 
 |**Opponent**     |**Determination** |**Force**  |**Speed**  |**Precision** |**Imagination** |
 |:----------------|:----------------:|:---------:|:---------:|:------------:|:--------------:|
-|**Determination**|+0                |+2         |Win        |Lose          |+0 Partial      |
-|**Force**        |+0 Partial        |+0         |+2         |Win           |Lose            |
-|**Speed**        |Lose              |+0 Partial |+0         |+2            |Win             |
-|**Precision**    |Win               |Lose       |+0 Partial |+0            |+2              |
-|**Imagination**  |+2                |Win        |Lose       |+0 Partial    |+0              |
+|**Determination**|+0                |+2         |Win        |Lose          |Partial         |
+|**Force**        |Partial           |+0         |+2         |Win           |Lose            |
+|**Speed**        |Lose              |Partial    |+0         |+2            |Win             |
+|**Precision**    |Win               |Lose       |Partial    |+0            |+2              |
+|**Imagination**  |+2                |Win        |Lose       |Partial       |+0              |
 
 Add the rating of the Manner and Skill and, if the card states it, +2. The opposing character or the GM’s complication can add +2 if their card states it. The higher number wins.
 
-If you win with “+0, Partial” you have a Partial Success. You succeed but the opponent gets some small part of their Intention, or the GM gets to involve their Complication in a minor way.
+If you win with “Partial” you have a Partial Success. You succeed but the opponent gets some small part of their Intention, or the GM gets to involve their Complication in a minor way.
 
 #### **Ties**
 
