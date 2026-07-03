@@ -1,1 +1,23 @@
+@@ -5,21 +5,26 @@ nav_order: 20
+---
+## Detailed Combat
 
+This is a step by step list to determine the procedure for detailed combat.
+
+Step 1:
+Establish Sides
+First we check who the teams are. One side versus another establish who are going to fight.
+Who are the leaders? Not the character with the greatest authority, but who will be leading the action.
+
+Step 2:
+
+Specified Range is a status initially given to the leader with the longest range. Over time it is passed to other characters. Having Specified range is advantageous because your wins inflict wounds on your opponents. Sometimes both sides will have specified range.
+
+Is your range less than or equal to than the Specified Range?
+You may help your leader. This gives your leader +1 to their result but you risk taking wounds if your side fails.
+
+Is your range greater than the Specified Range?
+A character is excluded when your weapon is greater than the Specified Range. You may go back to step one
+
+Are you Routed?
+A character is routed when a fight is already happening and you have a combatant upon you where your range is greater than theirs.
